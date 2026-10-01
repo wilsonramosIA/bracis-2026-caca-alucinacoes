@@ -1,6 +1,6 @@
-# Caça-Alucinações BRACIS 2026 — regex V4 corrigida
+# Caça-Alucinações BRACIS 2026 — 
 
-Esta é a versão de execução da solução determinística `v4_regex_corrected`. Ela extrai citações por expressões regulares, resolve os vínculos contra **o SQLite recebido na execução** e grava um CSV no formato da submissão. Não usa modelos, GPU, internet, APIs, pesos nem arquivos do conjunto de desenvolvimento.
+Esta é a versão de execução da solução determinística. Ela extrai citações por expressões regulares, resolve os vínculos contra **o SQLite recebido na execução** e grava um CSV no formato da submissão. Não usa modelos, GPU, internet, APIs, pesos nem arquivos do conjunto de desenvolvimento.
 
 ## Executar
 
